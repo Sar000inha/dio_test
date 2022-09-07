@@ -1,0 +1,7 @@
+Introdução ao Git e GitHub
+
+INTRODUÇÃO:
+
+GIT -> Software de versionamento para controlar e registrar as alterações que acontecem durante um projeto
+
+GITHUB -> Plataforma para repositório móvel

@@ -1,7 +1,0 @@
-Introdução ao Git e GitHub
-
-COMANDOS GIT:
-
-* git init - criar um repositório 
-* git status - verificar a situação atual do repósitorio
-* git add - arquivo selecionado para o próximo commit

@@ -1,0 +1,9 @@
+Introdução ao Git e GitHub
+
+COMANDOS GIT:
+
+* git init - criar um repositório 
+* git status - verificar a situação atual do repósitorio
+* git add - arquivo selecionado para o próximo commit
+* git push origin main - adicionar as alterações ao repositório móvel
+* git log - histórico de commits
